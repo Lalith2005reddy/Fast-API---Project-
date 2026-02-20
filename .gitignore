@@ -1,0 +1,26 @@
+# Virtual Environment
+for_fastapi/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Pydantic / JSON test files (optional)
+*.db
+
+# Pytest cache
+.pytest_cache/
